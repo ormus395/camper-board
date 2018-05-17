@@ -1,0 +1,29 @@
+h3 {
+  text-align: center;
+  padding: 15px;
+  width: 75%;
+  margin: 10px auto;
+  background-color: chocolate;
+  color: white;
+}
+
+table {
+  margin: 10px auto;
+  width: 75%;
+  border-collapse: collapse;
+}
+
+thead th {
+  background-color: forestgreen;
+}
+
+td,
+th {
+  border: 1px solid #aaa;
+  padding: 10px;
+}
+
+img {
+  height: 25px;
+  width: 25px;
+}
